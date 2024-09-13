@@ -37,3 +37,9 @@ function processDuck(duckObj:Duck) {
 }
 
 processDuck(duck2)
+
+
+// casting
+
+// alt types
+/*
